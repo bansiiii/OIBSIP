@@ -1,31 +1,22 @@
-Online Reservation System
-This Java program implements an online reservation system using a MySQL database.Users can perform various operations like adding reservations, deleting reservations, updating reservations, searching for reservations, and viewing all reservations. The project consists of two main classes: Task1 and nested classes user and PnrRecord for handling user and reservation information respectively.
+# Number Guessing Game
 
+## Description
+This is a simple number guessing game implemented in Java. The player has to guess a randomly generated number within a specified range and within a certain number of attempts.
 
-Usage
-Setup Database:
-Modify the url variable in the main method of Task1.java to your desired MySQL database URL.
-Update the database name, username, and password accordingly.
-Run the Program:
-Compile the Java file (Task1.java).
-Run the compiled Java program.
-Program Options:
-Upon running the program, you will be prompted to choose an option:
+## Features
+- Three difficulty levels: Easy, Medium, and Hard.
+- Interactive user interface.
+- Hints provided after each incorrect guess.
+- Score calculation based on the difficulty level and number of attempts.
 
-Insert a new reservation
-Delete an existing reservation
-Update an existing reservation
-Search for a reservation
-Show all reservations
-Exit the program
-Contributing
-Feel free to contribute to this project by creating issues, suggesting improvements, or submitting pull requests. Your contributions are greatly appreciated!
+## How to Play
+1. Clone the repository to your local machine.
+2. Compile the Java source code.
+3. Run the compiled program.
+4. Choose the difficulty level and start guessing numbers!
 
-Contributor: Bansi Bolledu
+## Author
+- Bansi Noel
 
-References:
-
-Java Documentation
-MySQL Documentation
-GitHub Guides
-Stack Overflow
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
