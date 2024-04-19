@@ -18,5 +18,3 @@ This is a simple number guessing game implemented in Java. The player has to gue
 ## Author
 - Bansi Noel
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
